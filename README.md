@@ -1,7 +1,7 @@
 
 ## Name: Shaik Azeez Ahamad
 ## Reg.No: 212223110046
-## dept : IoT
+## Dept : IoT
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
